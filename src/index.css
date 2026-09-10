@@ -140,6 +140,8 @@
 .leaflet-container {
   border-radius: 1rem;
   font-family: 'Inter', sans-serif;
+  position: relative;
+  z-index: 0;
 }
 
 .leaflet-popup-content-wrapper {
